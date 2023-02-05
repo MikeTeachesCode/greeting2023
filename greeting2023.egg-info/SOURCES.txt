@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+greeting2023/__init__.py
+greeting2023/greeting2023.py
+greeting2023.egg-info/PKG-INFO
+greeting2023.egg-info/SOURCES.txt
+greeting2023.egg-info/dependency_links.txt
+greeting2023.egg-info/requires.txt
+greeting2023.egg-info/top_level.txt

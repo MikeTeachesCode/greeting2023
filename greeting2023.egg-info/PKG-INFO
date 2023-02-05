@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: greeting2023
+Version: 1.0.0
+Summary: A basic app for greeting a person
+Home-page: https://github.com/MikeTeachesCode/greeting
+Author: Michael S. Russell
+Author-email: miketeachingcode@yahoo.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.0
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# README.md
+
+- This is a super simple greeting module for Python.
